@@ -1,2 +1,0 @@
-# WTFPL-license
-WTFPL license
